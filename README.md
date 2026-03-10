@@ -11,6 +11,11 @@
 - Integração de APIs de IA
 - Desenvolvimento de chatbots
 - IA aplicada ao desenvolvimento de software
+<br>
+## 🚀 Projetos
+
+- Chatbot com Python e Gemini
+- Exercícios de Python
 
 ---
 
