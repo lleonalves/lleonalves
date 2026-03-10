@@ -12,10 +12,12 @@
 - Desenvolvimento de chatbots
 - IA aplicada ao desenvolvimento de software
 
+---
+
 Olá me chamo Leon, tenho 28 anos, natural de São José dos Campos/SP. Atualmente estou me especializando em Inteligência Artificial pela Alura, aprendendo sobre integração de modelos generativos em aplicações e desenvolvimento de chatbots. Sou apaixonado por tecnologia e música.
-- TikTok "[Leon Martins](https://www.tiktok.com/@lleonmartins?_r=1&_t=ZS-94YrREV7n4J)"
-- Instagram "[Leon Alves](https://www.instagram.com/lleonalves/)" 
-- Linkedin "[Leon Alves Martins](https://www.linkedin.com/in/leon-alves-martins-29163b196/)".
+- TikTok [Leon Martins](https://www.tiktok.com/@lleonmartins?_r=1&_t=ZS-94YrREV7n4J)
+- Instagram [Leon Alves](https://www.instagram.com/lleonalves/)
+- LinkedIn [Leon Alves Martins](https://www.linkedin.com/in/leon-alves-martins-29163b196/).
 
    <p align="left">
       </a>
