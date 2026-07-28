@@ -18,7 +18,7 @@ Além da tecnologia, sou apaixonado por música e guitarra 🎸.
 
 - TikTok [Leon Martins](https://www.tiktok.com/@lleonmartins?_r=1&_t=ZS-94YrREV7n4J)
 - Instagram [Leon Alves](https://www.instagram.com/lleonalves/)
-- LinkedIn [Leon Alves Martins](https://www.linkedin.com/in/leon-alves-martins-29163b196/).
+- LinkedIn [Leon Alves Martins](https://www.linkedin.com/in/leonalvesmartins).
 
 # 🚀 Projetos
 
