@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Leon Alves Martins 🧑🏻‍🎤
-**`Desenvolvedor Iniciante`**
+**`Desenvolvedor Backend em Formação`**
 
 ## 🚀 Desenvolvedor Backend em Formação | Python | FastAPI | Inteligência Artificial
 
@@ -69,20 +69,19 @@ A aplicação busca oferecer uma experiência segura para gerenciamento de perfi
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
+
+<div align="center">
 
 <img 
-    align="left" 
-    alt="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"
 />
+
 <img 
-    align="left" 
-    alt="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonalves&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
 />
+
+</div>
 
