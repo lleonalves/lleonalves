@@ -1,28 +1,33 @@
 # 🧑🏻‍💻 Leon Alves Martins 🧑🏻‍🎤
 **`Desenvolvedor Iniciante`**
 
-🎓 Estudante de Engenharia de Software (5º semestre)
+## 🚀 Desenvolvedor Backend em Formação | Python | FastAPI | Inteligência Artificial
 
-🤖 Estudando Inteligência Artificial e IA Generativa
-
-🐍 Desenvolvendo projetos em Python
-
-📚 Atualmente aprendendo:
-- Integração de APIs de IA
-- Desenvolvimento de chatbots
-- IA aplicada ao desenvolvimento de software
-
-## 🚀 Projetos
-
-- Chatbot com Python e Gemini
-- Exercícios de Python
+🎓 Estudante de Engenharia de Software  
+🐍 Desenvolvedor focado em Python e desenvolvimento de APIs  
+🤖 Explorando Inteligência Artificial Generativa e integração de LLMs em aplicações  
 
 ---
 
-Olá me chamo Leon, tenho 28 anos, natural de São José dos Campos/SP. Atualmente estou me especializando em Inteligência Artificial pela Alura, aprendendo sobre integração de modelos generativos em aplicações e desenvolvimento de chatbots. Sou apaixonado por tecnologia e música.
+## 👋 Sobre mim
+
+Olá! Sou Leon Alves Martins, tenho 29 anos e sou estudante de Engenharia de Software e desenvolvedor backend em formação.
+Atualmente estou focado no desenvolvimento de aplicações utilizando **Python**, criando APIs REST, trabalhando com bancos de dados relacionais, autenticação, testes automatizados e regras de negócio.
+Tenho interesse em **Inteligência Artificial Generativa**, explorando integração de modelos de linguagem (LLMs) em aplicações reais, automações e ferramentas inteligentes.
+Além da tecnologia, sou apaixonado por música e guitarra 🎸.
+
 - TikTok [Leon Martins](https://www.tiktok.com/@lleonmartins?_r=1&_t=ZS-94YrREV7n4J)
 - Instagram [Leon Alves](https://www.instagram.com/lleonalves/)
 - LinkedIn [Leon Alves Martins](https://www.linkedin.com/in/leon-alves-martins-29163b196/).
+
+# 🚀 Projetos
+
+## 🤝 Care Connect API
+
+Plataforma de conexão entre pessoas que precisam de serviços de cuidado e profissionais especializados.
+O projeto tem como objetivo facilitar a conexão entre famílias e profissionais como babás, cuidadores de idosos e outros especialistas da área de assistência.
+A aplicação busca oferecer uma experiência segura para gerenciamento de perfis, publicação de oportunidades e conexão entre usuários.
+
 
    <p align="left">
       </a>
