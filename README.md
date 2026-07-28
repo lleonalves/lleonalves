@@ -66,6 +66,33 @@ A aplicação busca oferecer uma experiência segura para gerenciamento de perfi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="FastAPI"
+    title="FastAPI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 <br/>
 <br/>
 
@@ -75,13 +102,12 @@ A aplicação busca oferecer uma experiência segura para gerenciamento de perfi
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark"
 />
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
 />
 
 </div>
-
