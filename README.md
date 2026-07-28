@@ -101,14 +101,14 @@ A aplicação busca oferecer uma experiência segura para gerenciamento de perfi
 <div align="center">
 
 <img 
-  width="48%"
-  height="180px"
+  width="40%"
+  height="140px"
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark"
 />
 
 <img 
-  width="48%"
-  height="180px"
+  width="40%"
+  height="140px"
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
 />
 
