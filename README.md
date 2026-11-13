@@ -37,10 +37,6 @@ Sistema de gestão robusto (ERP) focado em confeitarias, desenhado com uma arqui
 - **Backend:** API REST em Java 25 e Spring Boot 4.1.2, com migrações de banco via Flyway e cobertura rigorosa de testes automatizados (JUnit 5 e Mockito).
 - **Frontend:** Interface rica em React e TypeScript, gestão de estado otimizada com TanStack Query e UI "Cozy" construída com Tailwind CSS v4.
 
-### 🏪 Sistema de PDV Offline-First
-Aplicação Desktop de Ponto de Venda (PDV) desenhada especificamente para pequenos comerciantes locais que sofrem com instabilidade de internet.
-- **Arquitetura:** Baseada em Clean Architecture / Hexagonal Architecture em Java, garantindo alta resiliência com persistência local em SQLite.
-
 ### 🤖 Automação de Suporte Inteligente (Direto da Grécia)
 Orquestração de um sistema de atendimento automatizado via WhatsApp para operação em produção.
 - **Stack:** Fluxos construídos no n8n consumindo a Evolution API, com gestão de estado em Redis, banco PostgreSQL e tudo orquestrado via Docker Compose.
@@ -51,9 +47,38 @@ Plataforma RESTful que conecta famílias a profissionais de assistência (cuidad
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark&hide_border=true&bg_color=1F222E" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark&hide_border=true&bg_color=1F222E" width="48%" />
+
+
+
+<img 
+
+  width="40%"
+
+  height="140px"
+
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark"
+
+/>
+
+
+
+<img 
+
+  width="40%"
+
+  height="140px"
+
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
+
+/>
+
+
+
 </div>
+
+" 
