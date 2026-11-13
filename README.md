@@ -1,115 +1,59 @@
-# 🧑🏻‍💻 Leon Alves Martins 🧑🏻‍🎤
-**`Desenvolvedor Backend em Formação`**
+# 🧑🏻‍💻 Leon Alves Martins
+**Software Engineer | Java | Python | React**
 
-## 🚀 Desenvolvedor Backend em Formação | Python | FastAPI | Inteligência Artificial
+Estudante do último ano de Engenharia de Software, combinando uma base técnica sólida com **10 anos de experiência em negócios, varejo e atendimento ao cliente**. 
 
-🎓 Estudante de Engenharia de Software  
-🐍 Desenvolvedor focado em Python e desenvolvimento de APIs  
-🤖 Explorando Inteligência Artificial Generativa e integração de LLMs em aplicações  
+O meu foco não é apenas escrever código, mas desenhar soluções arquiteturais que resolvem problemas reais de negócio. Atualmente, desenvolvo sistemas escaláveis e resilientes utilizando o ecossistema Java (Spring Boot) e Python (FastAPI), integrações com I.A. Generativa e automações complexas.
+
+🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/leonalvesmartins)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Backend & Arquitetura**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infraestrutura, Dados & Automação**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## 👋 Sobre mim
+## 🚀 Projetos em Destaque
 
-Olá! Sou Leon Alves Martins, tenho 29 anos e sou estudante de Engenharia de Software e desenvolvedor backend em formação.
-Atualmente estou focado no desenvolvimento de aplicações utilizando **Python**, criando APIs REST, trabalhando com bancos de dados relacionais, autenticação, testes automatizados e regras de negócio.
-Tenho interesse em **Inteligência Artificial Generativa**, explorando integração de modelos de linguagem (LLMs) em aplicações reais, automações e ferramentas inteligentes.
-Além da tecnologia, sou apaixonado por música e guitarra 🎸.
+### 🍰 DoceFlux (Em Desenvolvimento)
+Sistema de gestão robusto (ERP) focado em confeitarias, desenhado com uma arquitetura frontend/backend totalmente desacoplada e infraestrutura defensiva.
+- **Backend:** API REST em Java 25 e Spring Boot 4.1.2, com migrações de banco via Flyway e cobertura rigorosa de testes automatizados (JUnit 5 e Mockito).
+- **Frontend:** Interface rica em React e TypeScript, gestão de estado otimizada com TanStack Query e UI "Cozy" construída com Tailwind CSS v4.
 
-- TikTok [Leon Martins](https://www.tiktok.com/@lleonmartins?_r=1&_t=ZS-94YrREV7n4J)
-- Instagram [Leon Alves](https://www.instagram.com/lleonalves/)
-- LinkedIn [Leon Alves Martins](https://www.linkedin.com/in/leonalvesmartins).
+### 🏪 Sistema de PDV Offline-First
+Aplicação Desktop de Ponto de Venda (PDV) desenhada especificamente para pequenos comerciantes locais que sofrem com instabilidade de internet.
+- **Arquitetura:** Baseada em Clean Architecture / Hexagonal Architecture em Java, garantindo alta resiliência com persistência local em SQLite.
 
-# 🚀 Projetos
+### 🤖 Automação de Suporte Inteligente (Direto da Grécia)
+Orquestração de um sistema de atendimento automatizado via WhatsApp para operação em produção.
+- **Stack:** Fluxos construídos no n8n consumindo a Evolution API, com gestão de estado em Redis, banco PostgreSQL e tudo orquestrado via Docker Compose.
 
-## 🤝 Care Connect API
-
-Plataforma de conexão entre pessoas que precisam de serviços de cuidado e profissionais especializados.
-O projeto tem como objetivo facilitar a conexão entre famílias e profissionais como babás, cuidadores de idosos e outros especialistas da área de assistência.
-A aplicação busca oferecer uma experiência segura para gerenciamento de perfis, publicação de oportunidades e conexão entre usuários.
-
-
-   <p align="left">
-      </a>
-          <a href="https://github.com/lleonalves?tab=repositories&sort=stargazers">
-         <img alt="total de estrelas" title="total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lleonalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"/>
-      <a href="https://github.com/lleonalves?tab=followers">
-         <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/lleonalves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/></a>
-  </a>
-   </p>
+### 🤝 Care Connect API
+Plataforma RESTful que conecta famílias a profissionais de assistência (cuidadores, babás).
+- **Stack:** Construída em Python e FastAPI, integração com SQLAlchemy e PostgreSQL. Autenticação via JWT e alta confiabilidade com 81% de cobertura de testes no Pytest.
 
 ---
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<br/>
-<br/>
-
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img 
-  width="40%"
-  height="140px"
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark"
-/>
-
-<img 
-  width="40%"
-  height="140px"
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark&hide_border=true&bg_color=1F222E" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark&hide_border=true&bg_color=1F222E" width="48%" />
 </div>
