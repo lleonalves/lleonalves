@@ -80,5 +80,3 @@ Plataforma RESTful que conecta famílias a profissionais de assistência (cuidad
 
 
 </div>
-
-" 
