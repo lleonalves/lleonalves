@@ -49,34 +49,7 @@ Plataforma RESTful que conecta famílias a profissionais de assistência (cuidad
 
 ## 📊 Estatísticas
 
-
-
 <div align="center">
-
-
-
-<img 
-
-  width="40%"
-
-  height="140px"
-
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark"
-
-/>
-
-
-
-<img 
-
-  width="40%"
-
-  height="140px"
-
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark"
-
-/>
-
-
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lleonalves&show_icons=true&theme=onedark" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lleonalves&layout=compact&theme=onedark" width="48%" />
 </div>
